@@ -1,0 +1,16 @@
+﻿  Main.cpp
+C:\Users\Jared\Desktop\CompGraph\TwoD_Triangles\TwoD_Triangles\Main.cpp(226,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jared\Desktop\CompGraph\TwoD_Triangles\TwoD_Triangles\Main.cpp(342,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jared\Desktop\CompGraph\TwoD_Triangles\TwoD_Triangles\Main.cpp(343,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jared\Desktop\CompGraph\TwoD_Triangles\TwoD_Triangles\Main.cpp(347,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jared\Desktop\CompGraph\TwoD_Triangles\TwoD_Triangles\Main.cpp(348,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jared\Desktop\CompGraph\TwoD_Triangles\TwoD_Triangles\Main.cpp(350,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jared\Desktop\CompGraph\TwoD_Triangles\TwoD_Triangles\Main.cpp(351,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jared\Desktop\CompGraph\TwoD_Triangles\TwoD_Triangles\Main.cpp(360,29): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jared\Desktop\CompGraph\TwoD_Triangles\TwoD_Triangles\Main.cpp(810,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Jared\Desktop\CompGraph\TwoD_Triangles\TwoD_Triangles\Main.cpp(1347,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jared\Desktop\CompGraph\TwoD_Triangles\TwoD_Triangles\Main.cpp(1348,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jared\Desktop\CompGraph\TwoD_Triangles\TwoD_Triangles\Main.cpp(1649,2): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Jared\Desktop\CompGraph\TwoD_Triangles\TwoD_Triangles\Main.cpp(2186,46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Jared\Desktop\CompGraph\TwoD_Triangles\TwoD_Triangles\Main.cpp(2187,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  TwoD_Triangles.vcxproj -> C:\Users\Jared\Desktop\CompGraph\TwoD_Triangles\Debug\TwoD_Triangles.exe
